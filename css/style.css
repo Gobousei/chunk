@@ -118,3 +118,11 @@ a.btn-border-shadow:hover:before {
   top: 0;
   left: 0;
 }
+div.container {
+    min-height: 10em;
+    display: table-cell;
+    vertical-align: middle }
+ a{
+    margin-right : 10px;
+    margin-bottom　:5px;
+}
