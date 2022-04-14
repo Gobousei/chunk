@@ -117,12 +117,13 @@ a.btn-border-shadow:hover:before {
   left: 0;
 }
 div.container {
-margin:0 auto;
+ position: absolute;
+  left: 0;
+  right: 0;
 }
 .outer{
   text-align: center;
 }
 .inner{
   display: inline-block;
-  text-align: left;
 }
