@@ -121,6 +121,10 @@ a.btn-border-shadow:hover:before {
   left: 0;
 }
 div.container {
-    text-align: center;
+  position: absolute;
+  left: 0;
+  right: 0;
+  margin: auto;
+
 }
 
