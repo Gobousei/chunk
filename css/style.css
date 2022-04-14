@@ -127,7 +127,8 @@ div.container {
   text-align: center;
 }
 .inner{
-      width:30em;
+  margin-top: 3em;
+  width:24em;
   position: absolute;
   left: 0;
   right: 0;
