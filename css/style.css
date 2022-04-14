@@ -1,1 +1,53 @@
-
+    <style>
+      image{
+      text-align: center;
+      border-radius: 10px;
+      }
+     header {
+  display: flex;
+  width: 100%;
+  height: 100px;
+  bgcolor:white;
+  align-items: center;
+}
+      .menu-item {
+  list-style: none;
+  display: inline-block;
+  padding: 10px;
+    }
+.title {
+  color: black;
+  margin-right: auto;
+}
+      .box4{
+      border-radius: 40px/60px ;
+      }
+                  #text2{
+        margin-top: 70px;
+        margin-left: 800px;
+        font-size: 18px;
+        line-hight: 2em;
+        width:450px;
+        border-width: 5px;
+        padding: 20px;
+        background-color: #99CCFF;
+        border-style:double dotted groove;
+        border-color: #FF0000;
+        color:white;
+      }
+      #link{color:red;}
+      #link2{color:lime;}
+                  #text2{
+        margin-top: 70px;
+        margin-left: 800px;
+        font-size: 18px;
+        line-hight: 2em;
+        width:450px;
+        border-width: 5px;
+        padding: 20px;
+        background-color: #99CCFF;
+        border-style:double dotted groove;
+        border-color: #FF0000;
+        color:white;
+      }
+    </style>
