@@ -119,10 +119,9 @@ a.btn-border-shadow:hover:before {
   left: 0;
 }
 div.container {
-    margin-left: auto;
-    margin-right: auto;
+    text-align: center;
 }
  a{
-    margin-right : 10px;
-    margin-bottom　:5px;
+    margin-right : 15px;
+    margin-bottom　:10px;
 }
