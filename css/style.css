@@ -79,6 +79,8 @@ button.btn {
   letter-spacing: 0.1em;
   color: #212529;
   border-radius: 0.5rem;
+  margin-right : 15px;
+  margin-bottom　:10px;
 }
 
 a.btn-border-shadow--radius {
@@ -121,7 +123,4 @@ a.btn-border-shadow:hover:before {
 div.container {
     text-align: center;
 }
- a{
-    margin-right : 15px;
-    margin-bottom　:10px;
-}
+
