@@ -119,9 +119,9 @@ a.btn-border-shadow:hover:before {
   left: 0;
 }
 div.container {
-    min-height: 10em;
-    display: table-cell;
-    vertical-align: middle }
+    margin-left: auto;
+    margin-right: auto;
+}
  a{
     margin-right : 10px;
     margin-bottom　:5px;
