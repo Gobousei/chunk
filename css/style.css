@@ -121,11 +121,8 @@ a.btn-border-shadow:hover:before {
   left: 0;
 }
 div.container {
-      width:60%;
-  position: absolute;
-  left: 0;
-  right: 0;
-  margin: auto;
-
+background:#ffff00;
+  width:20em;
+margin:0 auto;
 }
 
