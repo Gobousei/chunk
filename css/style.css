@@ -130,10 +130,9 @@ div.container {
 }
 .inner{
   margin-top: 3em;
-  width:26em;
+  width:25em;
   position: absolute;
   left: 0;
   right: 0;
   margin: auto;
-  background:yellow;
 }
