@@ -131,10 +131,10 @@ a.btn-border-shadow:hover:before {
   margin-bottom:100em;
 }
 .inner{
-  width:27em;
+  width:26em;
   position: absolute;
   left: 0;
   right: 0;
   margin: auto;
-      background:yellow;
+      background:red;
 }
