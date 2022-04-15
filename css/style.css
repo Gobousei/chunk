@@ -122,7 +122,6 @@ a.btn-border-shadow:hover:before {
   left: 0;
   right: 0;
   margin: auto;
-  background:yellow;
 }
 .out{
   text-align: center;
@@ -132,7 +131,6 @@ a.btn-border-shadow:hover:before {
   margin-bottom:100em;
 }
 .inner{
-  margin-top: 3em;
   width:28em;
   position: absolute;
   left: 0;
