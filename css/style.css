@@ -139,8 +139,5 @@ a.btn-border-shadow:hover:before {
 }
 .inner2{
   width:26em;
-  position: absolute;
-  left: 0;
-  right: 0;
   margin: auto;
 }
