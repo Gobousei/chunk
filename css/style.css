@@ -122,6 +122,7 @@ div.container {
   left: 0;
   right: 0;
   margin: auto;
+  background:yellow;
 }
 .outer{
   text-align: center;
