@@ -116,8 +116,8 @@ a.btn-border-shadow:hover:before {
   top: 0;
   left: 0;
 }
-div.container {
-      width:15em;
+.container {
+  width:16em;
   position: absolute;
   left: 0;
   right: 0;
